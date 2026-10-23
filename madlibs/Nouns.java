@@ -6,8 +6,9 @@ public class Nouns {
         System.out.print("Enter noun: ");
         String noun1 = sc.nextLine();
         System.out.print("Enter noun: ");
-        String verb1 = sc.nextLine();
-        
+        String noun2 = sc.nextLine();
+        sc.close();
+        return noun1 + "" + noun2;
     }
     
 }
