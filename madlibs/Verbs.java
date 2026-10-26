@@ -12,6 +12,6 @@ public class Verbs {
 
         sc.close();
         //Closes scanner system
-        return verbOne
+        return verbOne;
     }
 }
