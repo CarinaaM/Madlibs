@@ -1,10 +1,7 @@
 import java.util.Scanner;
 
 public class Nouns {
-    public String getNouns(){
-        //new scanner object
-        Scanner sc = new Scanner(System.in);
-        
+    public String getNouns(Scanner sc){
         //ask for user input
         System.out.print("Enter noun: ");
 
