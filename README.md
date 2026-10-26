@@ -1,6 +1,6 @@
 # Madlibs
-Carina
-  team lead
+Carina \
+  team lead \
   reflection: As the team lead, I was responsible for dividing the work amongst myself and four teammates. I created the starting code for each file, creating the function and class without the individual lines of code within it. Then, I created the repository where I uploaded the java folder for my other teammates to work on their individual tasks.
 
 Mahika
