@@ -14,6 +14,8 @@ Trisha\
 
 Shreya\
   responsible for getting and returning adjectives\
+  Approach/reflection: I created the adjectives function and was also able to change the code so that the variables could be reused when asking for user input of the variable names "adjective1". I added comments to the code, and tested it to check if it could fit multiple scenarios, like if the user entered a number and whether that would produce an error or not. Here is the picture of my code and functionality of it. 
+  
 
 Ira\
   responsible for Runner file, using all the verb, noun, and adjective functions to create the story\
