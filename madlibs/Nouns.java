@@ -2,13 +2,16 @@ import java.util.Scanner;
 
 public class Nouns {
     public String getNouns(){
+        //new scanner object
         Scanner sc = new Scanner(System.in);
+        
+        //ask for user input
         System.out.print("Enter noun: ");
+
+        //read and store input
         String noun1 = sc.nextLine();
-        System.out.print("Enter noun: ");
-        String noun2 = sc.nextLine();
-        sc.close();
-        return noun1 + "" + noun2;
+
+        return noun1;
     }
     
 }
