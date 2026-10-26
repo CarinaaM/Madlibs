@@ -1,13 +1,14 @@
 import java.util.Scanner;
 
 public class Nouns {
-    public String getNouns(){
-        Scanner sc = new Scanner(System.in);
+    public String getNouns(Scanner sc){
+        //ask for user input
         System.out.print("Enter noun: ");
+
+        //read and store input
         String noun1 = sc.nextLine();
-        System.out.print("Enter noun: ");
-        String verb1 = sc.nextLine();
-        
+
+        return noun1;
     }
     
 }

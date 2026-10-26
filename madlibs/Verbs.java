@@ -1,16 +1,15 @@
 import java.util.Scanner;
 
 public class Verbs {
-    public String getVerbs(){
-        Scanner sc = new Scanner(System.in);
-        
+    //Creates verb class that we can call in main file 
+    public String getVerbs(Scanner sc){
+
+        //Allows user to input 
         System.out.print("Enter a verb: ");
         String verbOne = sc.nextLine();
 
-        System.out.print("Enter another verb!: ");
-        String verbTwo = sc.nextLine();
-
         sc.close();
-        return verbOne + "" + verbTwo;
+        //Closes scanner system
+        return verbOne;
     }
 }
