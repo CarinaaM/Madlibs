@@ -11,7 +11,9 @@ Mahika\
 
 Trisha\
   responsible for getting and returning nouns\
-  Approach/reflection: I created the nouns function and asked for user input for a noun using the scanner class. I stored that input into a variable and returned that variable value. I made sure to add comments throughout my code. I also tested my code to ensure it works.
+  Approach/reflection: I created the nouns function and asked for user input for a noun using the scanner class. I stored that input into a variable. I made sure to add comments throughout my code. I also tested my code to ensure it works. Once it worked, I revised the code, so that it returned the value to be used, instead of printing it. I've attached a screenshot of both my code and my code functionality.
+  <img width="930" height="563" alt="image" src="https://github.com/user-attachments/assets/0b2fb5c1-9e3d-4f47-a209-553dbf10bdfc" />
+
 
 Shreya\
   responsible for getting and returning adjectives\
