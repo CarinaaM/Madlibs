@@ -7,7 +7,7 @@ public class Verbs {
         //Allows user to input 
         System.out.print("Enter a verb: ");
         String verbOne = sc.nextLine();
-        //Closes scanner system
+        //Scanner is closed in Runner after all input is collected
         return verbOne;
     }
 }
