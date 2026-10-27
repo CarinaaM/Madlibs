@@ -1,3 +1,4 @@
+<img width="985" height="739" alt="Screenshot 2026-10-26 at 10 49 54 PM" src="https://github.com/user-attachments/assets/345ba166-acb2-41f7-8e0a-22e803895665" />
 # Madlibs
 Carina \
   team lead \
@@ -18,7 +19,8 @@ Trisha\
 Shreya\
   responsible for getting and returning adjectives\
   Approach/reflection: I created the adjectives function and was also able to change the code so that the variables could be reused when asking for user input of the variable names "adjective1". I added comments to the code, and tested it to check if it could fit multiple scenarios, like if the user entered a number and whether that would produce an error or not. Here is the picture of my code and functionality of it. 
-  
+  <img width="985" height="739" alt="Screenshot 2026-10-26 at 10 49 54 PM" src="https://github.com/user-attachments/assets/57a418f1-8737-4871-bed7-ce8024404e79" />
+
 
 Ira\
   responsible for Runner file, using all the verb, noun, and adjective functions to create the story\

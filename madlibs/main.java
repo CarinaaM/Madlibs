@@ -22,6 +22,9 @@ public class main {
     String adj1 = a.getAdjectives(sc);
     String adj2 = a.getAdjectives(sc);
 
+    // Close the Scanner after all input is done
+    sc.close();
+    
     // print the story using the words
     printStory(noun1, noun2, verb1, verb2, adj1, adj2);
   }
